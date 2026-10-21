@@ -54,7 +54,8 @@ A Vercel acompanha o repositório: novos envios ao branch conectado geram novas 
 2. No site, use o seletor **Escala em edição** para alternar entre escalas. O nome acompanha a primeira e a última data cadastradas, incluindo eventos.
 3. Clique em **Montar próxima escala** para abrir uma escala vazia. Cadastre nela as novas datas; a escala anterior continuará salva e poderá ser selecionada novamente.
 4. **Gerar texto para WhatsApp** considera apenas a escala atualmente selecionada. Os pregadores e os dados da comunidade permanecem compartilhados entre as escalas.
-5. Uma escala sem datas aparece como **Nova escala**. Quando houver datas, o título passa automaticamente a mostrar o intervalo.
+5. Use o botão discreto **Excluir escala** ao lado do seletor para apagar somente a escala selecionada. O site pede confirmação e mantém as outras escalas; se a última escala for excluída, uma escala vazia é criada automaticamente.
+6. Uma escala sem datas aparece como **Nova escala**. Quando houver datas, o título passa automaticamente a mostrar o intervalo.
 
 ## 5. Teste rápido após publicar
 

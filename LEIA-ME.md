@@ -11,7 +11,7 @@
 
 ## Montar a próxima escala
 
-No seletor **Escala em edição**, alterne entre as escalas já salvas. Use **Montar próxima escala** para começar outra sem apagar a atual. O nome muda automaticamente conforme a primeira e a última data (por exemplo, “1/jan à 13/fev”), e o botão de WhatsApp usa somente a escala selecionada. A lista de pregadores e os dados da comunidade continuam compartilhados.
+No seletor **Escala em edição**, alterne entre as escalas já salvas. Use **Montar próxima escala** para começar outra sem apagar a atual. O nome muda automaticamente conforme a primeira e a última data (por exemplo, “1/jan à 13/fev”), e o botão de WhatsApp usa somente a escala selecionada. O botão discreto **Excluir escala**, ao lado do seletor, remove apenas a escala selecionada após confirmação; as outras são preservadas. Se excluir a última escala existente, uma escala vazia será criada automaticamente. A lista de pregadores e os dados da comunidade continuam compartilhados.
 
 ## Segurança importante
 
