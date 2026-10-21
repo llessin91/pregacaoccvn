@@ -11,7 +11,8 @@ Aplicação web responsiva para organizar uma escala de pregação, eventos e pr
 - Registra cada data como pregação (pregador e tema) **ou** evento (nome do evento).
 - Retira da lista de disponíveis os pregadores já escalados.
 - Permite reordenar/trocar atribuições por arrastar no computador e por controles no celular.
-- Monta um texto editável para copiar e colar no WhatsApp usando somente a escala selecionada.
+- Monta um texto editável para WhatsApp no formato `12/jan - Tema da pregação | Pregador`, usando somente a escala selecionada.
+- Destaca com um brilho verde suave e um selo a próxima pregação futura da escala.
 - Salva nome, identificação, cidade e mensagem de encerramento da comunidade.
 - Mantém cache local no navegador e pode sincronizar a escala entre dispositivos usando Supabase.
 
@@ -61,7 +62,8 @@ A Vercel acompanha o repositório: novos envios ao branch conectado geram novas 
 
 - Cadastre um pregador e uma pregação; confira que ele sai da lista de disponíveis.
 - Cadastre uma data como evento e confira que não exige pregador.
-- Selecione datas em meses diferentes e gere o texto do WhatsApp; edite o texto e teste **Copiar texto**.
+- Selecione datas em meses diferentes e gere o texto do WhatsApp; confira o formato `12/jan - Tema da pregação | Pregador`, edite e teste **Copiar texto**.
+- Confira que a pregação futura mais próxima aparece com um brilho verde suave e o selo **Próxima pregação**.
 - Abra o endereço normal do site em outro navegador e confirme que as alterações aparecem nos dois dispositivos.
 - Teste o layout em um celular e confirme se a escala permanece visível.
 
