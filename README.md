@@ -9,7 +9,6 @@ Aplicação web responsiva para organizar uma escala de pregação, eventos e pr
 - O nome de cada escala é calculado pelas datas cadastradas, por exemplo, “1/jan à 13/fev”; o período se atualiza quando datas são adicionadas ou removidas.
 - Permite escolher dias específicos em um calendário mensal e cadastrar uma escala com datas de vários meses.
 - Registra cada data como pregação (pregador e tema) **ou** evento (nome do evento).
-- Bloqueia o cadastro de uma data que já esteja ocupada em qualquer outra escala salva, mostrando em qual escala ela já foi usada.
 - Retira da lista de disponíveis os pregadores já escalados.
 - Permite reordenar/trocar atribuições por arrastar no computador e por controles no celular.
 - Monta um texto editável para copiar e colar no WhatsApp usando somente a escala selecionada.
